@@ -1,2 +1,2 @@
-email : ziyeon.ivi@gmail.com
-gitID : ziynii
+email :
+gitID :
